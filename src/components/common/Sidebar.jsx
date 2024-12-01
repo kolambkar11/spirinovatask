@@ -17,7 +17,7 @@ import {
 import { NavLink } from "react-router-dom";
 const isActive = "bg-blue-700 text-white";
 const navigation = [
-  { name: "Dashboard", href: "/", icon: HomeIcon, current: true },
+  { name: "Dashboard", href: "spirinovatask/", icon: HomeIcon, current: true },
   {
     name: "Assets",
     href: "spirinovatask/assets",
