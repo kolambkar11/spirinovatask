@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spirinovatask/static/css/main.78281fb9.css",
+    "main.js": "/spirinovatask/static/js/main.546ef671.js",
+    "static/js/453.74cb49cd.chunk.js": "/spirinovatask/static/js/453.74cb49cd.chunk.js",
+    "index.html": "/spirinovatask/index.html",
+    "main.78281fb9.css.map": "/spirinovatask/static/css/main.78281fb9.css.map",
+    "main.546ef671.js.map": "/spirinovatask/static/js/main.546ef671.js.map",
+    "453.74cb49cd.chunk.js.map": "/spirinovatask/static/js/453.74cb49cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78281fb9.css",
+    "static/js/main.546ef671.js"
+  ]
+}
