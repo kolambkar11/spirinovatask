@@ -16,31 +16,31 @@ function App() {
           <Route
             activeClassName="active_class"
             exact
-            path="/"
+            path="spirinovatask/"
             element={<Dashboard />}
           ></Route>
           <Route
             activeClassName="active_class"
             exact
-            path="/assets"
+            path="spirinovatask/assets"
             element={<Assets />}
           ></Route>
           <Route
             activeClassName="active_class"
             exact
-            path="/jobs"
+            path="spirinovatask/jobs"
             element={<Jobs />}
           ></Route>
           <Route
             activeClassName="active_class"
             exact
-            path="/render"
+            path="spirinovatask/render"
             element={<Render />}
           ></Route>
           <Route
             activeClassName="active_class"
             exact
-            path="/reports"
+            path="spirinovatask/reports"
             element={<Reports />}
           ></Route>
           <Route path="*" element={<Notfound />}></Route>
